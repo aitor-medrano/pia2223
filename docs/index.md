@@ -1,17 +1,15 @@
-# Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Proyectos de Innovación Aplicada en FP (PIAFP)
 
-## Commands
+xxx
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Planificación
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+| Sesiones                                  | Fecha             | Duración (h) |
+| ---------                                 | -----             | --------- |
+| 5,6.- [Presentación](01presentacion.md)   | Viernes 7 Oct     | 4p + 4o   |
+| 13,14.- Captura de requisitos             | Viernes 21 Oct    | 4p + 4o   |
+| 21,22.- Etiquetado de datos               | Viernes 4 Nov     | 4p + 4o   |
+| 31,32.- Almacenamiento de datos           | Viernes 18 Nov    | 4p + 4o   |
+| 39,40.- Validación                        | Miércoles 30 Nov  | 4p + 4o   |
+| 41,42.- Almacenamiento de audio           | Viernes 2 Dic     | 4p + 4o   |
