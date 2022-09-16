@@ -2,7 +2,7 @@
 
 Los Proyectos de Innovación Aplicada en FP buscan el desarrollo de proyectos innovadores realizados por el alumnado de diferentes centros.
 
-En nuestro caso, durante el presente curso, vamos a trabajar en dos proyectos:
+En nuestro caso, durante el presente curso 22/23 en el [IES Severo Ochoa de Elche](https://portal.edu.gva.es/03013224/es/inicio/) vamos a trabajar en dos proyectos:
 
 1. PIA FP - Lara
 2. PIA FP - Hidroponía
