@@ -76,17 +76,17 @@ Y a partir de ahí, las necesidades detectadas por el alumnado: ¿Qué necesitam
 
 ### Paso 4 Obtener y organizar información
 
-En equipo, investigamos y buscamos los recursos necesarios, así como pedir ayuda/colaboración a personal experto.
+En equipo, investigamos y buscamos los recursos necesarios, así como pedimos ayuda/colaboración a personal experto.
 
-Evaluamos nuestros conocimientos: ¿Qué sabemos? ¿Qué necesitamos saber?
+Evaluamos nuestros conocimientos, con preguntas del tipo ¿Qué sabemos? ¿Qué necesitamos saber?
 
-Antes de acabar esta fase, el equipo tiene que tener todas las dudas previas resueltas.
+Antes de acabar esta fase, todos los integrantes del equipo deben tener todas las dudas previas resueltas.
 
 ### Paso 5 Generar alternativas
 
-En esta fase es cuando nos centramos en tomar decisiones sobre la implementación de la solución.
+En este paso es cuando nos centramos en tomar decisiones sobre la implementación de la solución, en el cómo vamos a afrontar sy el por qué.
 
-Esta fase se realiza de forma individual.
+Este paso se realiza de forma individual.
 
 ## Fase 3 - Explorar estrategias
 
@@ -98,26 +98,34 @@ Si un compañero tiene una aportación, la comunica de forma constructiva.
 
 ### Paso 7: Seleccionar una solución de equipo
 
-Tras escuchar todas las propuestas, el equipo acuerda una forma de solucionar el problema.
+Tras escuchar todas las propuestas, el equipo acuerda una forma de solucionar el problema sobre la cual trabajarán en el resto de pasos.
 
 ## Fase 4 - Actuar
 
 ### Paso 8: Planificación
 
-Sobre la solución elegida, se desglosa en tareas, y se distribuyen y planifican. Para ello, vamos a utilizar la herramienta MS Planner de Office 365.
+Sobre la solución elegida, se desglosa en tareas, se distribuyen y planifican.
+
+Para ello, vamos a utilizar la herramienta MS Planner de Office 365, mediante la cual podemos crear un tablero Kanban con tres columnas/depósitos: Pendiente / En proceso / Realizado.
+
+<figure style="align: center;">
+    <img src="images/planner.png">
+    <figcaption>Uso de Planner</figcaption>
+</figure>
+
+Para cada una de las tareas que hayamos creado, además del título, se las asignaremos a uno o varios de los integrantes del equipo y le indicaremos una fecha estimada de realización.
 
 !!! question "Pensando..."
     ¿Hay tareas que se pueden realizar en paralelo?
-
-Hay que tener especial antención a la dependencia entre tareas.
+    Hay que tener especial atención a la dependencia entre tareas.
 
 ### Paso 9: Ejecutar acciones
 
 Plazo: desde el viernes 7 de octubre al jueves 20 octubre
 
-En esta fase implementamos la solución elegida a este reto, es decir, concretamos qué vamos a implementar durante el curso y una visión de contexto de cómo lo vamos a hacer.
+En este paso implementamos la solución elegida a este reto, es decir, concretamos qué vamos a implementar durante el curso y una visión de contexto de cómo lo vamos a hacer.
 
-Para ello, prepararemos un documento que nos servirá como enunciado del proyecto y una presentación para enseñarle a los compañeros nuestra propuesta.
+Para ello, prepararemos un documento que nos servirá como enunciado del proyecto y una presentación para enseñarle a los compañeros nuestra propuesta. El documento debe entregarse en [Aules](https://aules.edu.gva.es/fp/course/view.php?id=93612), siendo la fecha límite el jueves 20 de octubre a las 23:59h.
 
 ## Fase 5 - Logros
 
@@ -137,10 +145,11 @@ El resultado se utilizará para desarrollar la siguiente fase del proyecto PIA.
 
 * (15%) Planning - MS Planner 365
     * Rubrica: división de tareas, asignación y cumplimientos
-* (50%) Documento enunciado
-    * Rubrica: estilo (10%), definición de todas las fases de la solución (análisis, diseño, implementación, pruebas, despliegue) (40%)
-* (15%) Competencias personales, profesionales y sociales
-    * Rubrica: revisar competencias del BOE, objetivos ODS
+* (65%) Documento enunciado
+    * Estilo (10%)
+    * Definición de todas las fases de la solución (análisis, diseño, implementación, pruebas, despliegue) (40%)
+    * Competencias personales, profesionales y sociales (15%)
+        * Rubrica: revisar competencias del BOE, objetivos ODS
 * (10%) Participación
     * Equitativo, diferentes roles
 * (10%) Reflexión
