@@ -1,6 +1,6 @@
 # Proyectos de Innovación Aplicada en FP (PIAFP)
 
-Los Proyectos de Innovación Aplicada en FP buscan el desarrollo de proyectos innovadores realizados por el alumnado de diferentes centros.
+Los Proyectos de Innovación Aplicada en FP buscan el desarrollo de proyectos innovadores realizados por el alumnado de diferentes centros que colaboran entre sí.
 
 En nuestro caso, durante el presente curso 22/23 en el [IES Severo Ochoa de Elche](https://portal.edu.gva.es/03013224/es/inicio/) vamos a trabajar en dos proyectos:
 
@@ -15,15 +15,15 @@ Para el desarrollo de los PIA, vamos a dividir el desarrollo en las tres evaluac
 
 ## PIA Lara
 
-### Reto 0
+### Reto 1
 
 El objetivo de este reto es concretar la solución al PIA Lara.
 
-| Sesiones                                  | Fecha             | Duración (h) |
-| ---------                                 | -----             | --------- |
+| Sesiones                                  | Fecha               | Duración (h) |
+| ---------                                 | -----               | --------- |
 | 5,6,13.- [Presentación del PIA Lara](01presentacion.md)         | Viernes 7 Oct <br /> Viernes 21 Oct    | 6p + 4o |
 
-### Reto 1
+### Reto 2
 
 En este reto nos vamos a centrar en la captura de los datos necesarios.
 
@@ -36,3 +36,11 @@ En este reto nos vamos a centrar en la captura de los datos necesarios.
 | 41,42.- Almacenamiento de audio           | Viernes 2 Dic     | 4p + 4o   |
 
 ## PIA Hidroponía
+
+### Reto 3
+
+El objetivo de este reto es concretar la solución al PIA Lara.
+
+| Sesiones                                  | Fecha               | Duración (h) |
+| ---------                                 | -----               | --------- |
+| 57,58.- Presentación del PIA Hidroponía         | Viernes 13 Enero    | 4p + 4o |
