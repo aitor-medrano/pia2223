@@ -53,9 +53,9 @@ Cada equipo debe tener un nombre.
 
 El problema que queremos solucionar es:
 
-1. *Creación de una* ***solución*** *basada en inteligencia artificial que permite mejorar la comprensión oral de las personas que tienen dificultades en el habla.*
+1. *Creación de una* ***solución*** *basada en inteligencia artificial que permita mejorar la comunicación de las personas que tienen dificultades en el habla.*
 
-Este problema nace como una propuesta para trabajar los  de las Naciones Unidades.
+Este problema nace como una propuesta para trabajar los ODS comentados anteriormente.
 
 ### Paso 2: De problema a reto
 
@@ -68,13 +68,13 @@ Conoce el problema de cerca, conoce soluciones existentes, visita a pacientes, c
 
 ## Fase 2 - Definir el reto
 
-### Paso 3 Establecer parámetros
+### Paso 3: Establecer parámetros
 
 En esta fase tenemos que analizar cual es nuestro conocimiento sobre el reto: ¿Qué se sabe?
 
 Y a partir de ahí, las necesidades detectadas por el alumnado: ¿Qué necesitamos saber?
 
-### Paso 4 Obtener y organizar información
+### Paso 4: Obtener y organizar información
 
 En equipo, investigamos y buscamos los recursos necesarios, así como pedimos ayuda/colaboración a personal experto.
 
@@ -82,9 +82,9 @@ Evaluamos nuestros conocimientos, con preguntas del tipo ¿Qué sabemos? ¿Qué 
 
 Antes de acabar esta fase, todos los integrantes del equipo deben tener todas las dudas previas resueltas.
 
-### Paso 5 Generar alternativas
+### Paso 5: Generar alternativas
 
-En este paso es cuando nos centramos en tomar decisiones sobre la implementación de la solución, en el cómo vamos a afrontar sy el por qué.
+En este paso es cuando nos centramos en tomar decisiones sobre la implementación de la solución, en el cómo vamos a afrontar y el por qué.
 
 Este paso se realiza de forma individual.
 
@@ -106,7 +106,7 @@ Tras escuchar todas las propuestas, el equipo acuerda una forma de solucionar el
 
 Sobre la solución elegida, se desglosa en tareas, se distribuyen y planifican.
 
-Para ello, vamos a utilizar la herramienta MS Planner de Office 365, mediante la cual podemos crear un tablero Kanban con tres columnas/depósitos: Pendiente / En proceso / Realizado.
+Para ello, vamos a utilizar una herramienta de planificación tipo Trello / MS Planner de Office 365, mediante la cual podemos crear un tablero Kanban con tres columnas/depósitos: Pendiente / En proceso / Realizado.
 
 <figure style="align: center;">
     <img src="images/planner.png">
