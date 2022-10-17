@@ -27,13 +27,13 @@ El objetivo de este reto es concretar la solución al PIA Lara.
 
 En este reto nos vamos a centrar en la captura de los datos necesarios.
 
-| Sesiones                                  | Fecha             | Duración (h) |
-| ---------                                 | -----             | --------- |
-| 14.- Captura de requisitos             | Viernes 21 Oct    | 2p + 4o   |
-| 21,22.- Lectura de datos                  | Viernes 4 Nov     | 4p + 4o   |
-| 31,32.- Almacenamiento de datos           | Viernes 18 Nov    | 4p + 4o   |
-| 39,40.- Validación                        | Miércoles 30 Nov  | 4p + 4o   |
-| 41,42.- Almacenamiento de audio           | Viernes 2 Dic     | 4p + 4o   |
+| Sesiones                                          | Fecha             | Duración (h) |
+| ---------                                         | -----             | --------- |
+| 14.- [Captura de requisitos](02requisitos.md)     | Viernes 21 Oct    | 2p + 4o   |
+| 23,24.- Visita Victoria Kent                  | Martes 8 Nov     | 2p + 6o   |
+| 31,32.- Almacenamiento de datos               | Viernes 18 Nov    | 4p + 4o   |
+| 39,40.- Visita Gran Vía                       | Miércoles 30 Nov  | 4p + 4o   |
+| 41,42.- Almacenamiento de audio               | Viernes 2 Dic     | 4p + 4o   |
 
 ## PIA Hidroponía
 
