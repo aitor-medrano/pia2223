@@ -1,5 +1,7 @@
 # Captura de requisitos
 
+En la sesión anterior
+
 V21/10
 
 A partir del enunciado creado en el reto anterior, vamos a realizar la toma de requisitos y el prototipado de la aplicación de captura de datos.
