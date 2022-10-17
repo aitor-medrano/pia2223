@@ -8,8 +8,8 @@ El PIA Lara nace como un Proyecto de Innovación Aplicada impulsado desde la *Co
 Este proyecto se desarrolla de manera conjunta por:
 
 * [IES Severo Ochoa](https://portal.edu.gva.es/03013224/es/inicio/) de Elche, con la participación del alumnado del curso de especialización en Inteligencia Artificial y Big Data.
-* [IES Gran Vía](https://portal.edu.gva.es/iesgranvia/) de Alicante, con la participación del alumnado del ciclo superior de Mediación Comunicativa.
-* [IES Victoria Kent](https://portal.edu.gva.es/ivk/es/inicio/) de Elche, con la participación del alumnado del ciclo superior de Mediación Comunicativa.
+* [IES Gran Vía](https://portal.edu.gva.es/iesgranvia/) de Alicante, con la participación del alumnado del ciclo superior de *Mediación Comunicativa*.
+* [IES Victoria Kent](https://portal.edu.gva.es/ivk/es/inicio/) de Elche, con la participación del alumnado del ciclo superior de *Mediación Comunicativa* y el de *Integración Social*.
 * [Tilúa](https://tilua.es/), como empresa experta en domótica asistencial.
 * [José Barragán](http://josebarragancsd.com/), abogado especialista en derecho informático y ciberseguridad.
 * [FacePhi](https://facephi.com/), empresa tecnológica experta en el uso de la IA, en especial la biometría.
