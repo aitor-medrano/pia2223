@@ -17,7 +17,7 @@ Sobre el enunciado que hemos consensuado, hemos de detectar qué operaciones va 
 
 Una vez tenemos clara las operaciones en las que nos vamos a centrar, llega la hora de prototipar nuestra aplicación. Para ello, primero nos vamos a centrar en el interfaz de usuario.
 
-Para ello, es conveniente seguir el [proceso SWMP](https://www.eniun.com/prototipos-diseno-interfaces-web/), donde primero hacemos un boceto (*sketch*), luego un *wireframe*, a continuación un *mockup* y finalmente el prototipo.
+Para ello, es conveniente seguir el [proceso SWMP](https://www.eniun.com/prototipos-diseno-interfaces-web/), donde primero hacemos un boceto (*sketch*), luego un esquema de página o *wireframe*, a continuación un maqueta (*mockup*) y finalmente el prototipo.
 
 <figure style="align: center;">
     <img src="images/swmp.jpeg">
@@ -25,6 +25,13 @@ Para ello, es conveniente seguir el [proceso SWMP](https://www.eniun.com/prototi
 </figure>
 
 Para la realización de los bocetos, vamos a realizar una dinámica para el diseño del interfaz de usuario de forma individual y posterior puesta en común con los compañeros del equipo.
+
+Para la realización de *wireframes* podemos utilizar <https://wireframe.cc/>, <https://balsamiq.com> o <https://www.gliffy.com>.
+
+!!! tip "El diseño no importa"
+    Es muy importante que en los pasos de bocetos y *wireframes* no nos centremos en el diseño gráfico, si no en la usabilidad. Es decir, nada de colores ni tipografía. 
+
+Una vez tenemos los esquemas de página, podemos crear la navegación en HTML como un prototipo para enseñarselo a los usuarios finales y que lo puedan probar.
 
 ## Plazos de entrega
 
@@ -40,7 +47,7 @@ Para la realización de los bocetos, vamos a realizar una dinámica para el dise
     * Capturas de pantalla
 * (10%) Planning
     * Capturas de pantalla del tablero Kanban
-* (50%) Prototipo: Sitio web en HTML con la navegación para poder probarlo    
+* (50%) Prototipo: Sitio web navegable en HTML
 
 <!--
 Preparar salida a VK... aplicación que funcione, llevar portatiles... o aplicación en internet ... a las 17:45 allí, o a las 17:30 en s8a
