@@ -6,7 +6,8 @@ nav:
   - "Inicio": "index.md"
   - "UF1 - PIAFP Lara":
       - "index.md"
-      - "5,6,13.- Presentacion": "01presentacion.md"
+      - "Reto 1 - Presentacion": "01presentacion.md"
+      - "Reto 2 - Prototipado": "02requisitos.md"
 
 theme:
   language: es

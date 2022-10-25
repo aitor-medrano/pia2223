@@ -36,21 +36,23 @@ Una vez tenemos los esquemas de página, podemos crear la navegación en HTML co
 ## Plazos de entrega
 
 * Viernes 21 Oct - 21:00h: bocetos en papel
-* Martes 25 Oct - 23:59: planning
-* Domingo 6 Nov - 23:59: wireframes y prototipo navegable
+* Martes 25 Oct - 23:59: *planning*
+* Domingo 6 Nov - 23:59: *wireframes*, documento de requisitos y prototipo navegable
 
 ## Elementos evaluables
 
 * (20%) Boceto de la navegación
     * Fotografías del borrador realizado en papel
-* (20%) Wireframe
+* (20%) *Wireframe*
     * Capturas de pantalla
-* (10%) Planning
-    * Capturas de pantalla del tablero Kanban
-* (50%) Prototipo: Sitio web navegable en HTML
+* (10%) *Planning*
+    * Capturas de pantalla del tablero *Kanban*
+* (20%) Documento de requisitos
+    * Enumeración de las operaciones
+* (30%) Prototipo: Sitio web navegable en HTML
 
 <!--
-Preparar salida a VK... aplicación que funcione, llevar portatiles... o aplicación en internet ... a las 17:45 allí, o a las 17:30 en s8a
+Preparar salida a VK... aplicación que funcione, llevar portátiles... o aplicación en internet ... a las 17:45 allí, o a las 17:30 en s8a
 
 Y mandaremos un mail con las tareas a realizar para el V18/11
 -->

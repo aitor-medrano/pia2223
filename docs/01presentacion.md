@@ -16,7 +16,7 @@ Este proyecto se desarrolla de manera conjunta por:
 
 Nuestro proyecto tiene como finalidad **mejorar la autonomía comunicativa de las personas con trastornos del habla o del lenguaje a través soluciones tecnológicas**.
 
-Este proyecto no podemos abordarlo desde una visión reduccionista, atendiendo solo a las características tecnológicas de un producto, ya que como indica Joan Pahisa en un artículo publicado en cermi semanal *"si los programadores apenas conocen la realidad de las personas con discapacidad, la Inteligencia Artificial resultante adolecerá de esa capacidad de aprendizaje, de manera que terminará excluyéndolos"*.
+Este proyecto no podemos abordarlo desde una visión reduccionista, atendiendo solo a las características tecnológicas de un producto, ya que como indica *Joan Pahisa* en un artículo publicado en *cermi semanal* *"si los programadores apenas conocen la realidad de las personas con discapacidad, la Inteligencia Artificial resultante adolecerá de esa capacidad de aprendizaje, de manera que terminará excluyéndolos"*.
 
 Debemos por tanto tener una visión más holística y **enfocar este reto desde una perspectiva ética, asistencial y tecnológica**. 
 
@@ -141,6 +141,30 @@ Sobre todas las propuestas expuestas, la clase en grupo reflexionamos y elegimos
 
 El resultado se utilizará para desarrollar la siguiente fase del proyecto PIA.
 
+## Conclusiones
+
+Los puntos que hemos consensuado son:
+
+* Crear un dataset con los datos capturados (audio, etiquetas, etc…). Es necesario capturar muchos datos.
+* Entrenar uno o varios modelos (lo decidiremos más adelante).
+* Respecto a la aplicación final: se graba el audio y la aplicación le genera el texto. Queda pendiente estudiar la posibilidad de generar el audio, calificar la calidad del resultado generado, incluso el volver a enviar un texto corregido con lo que quería que hubiera dicho.
+
+Algunos planteamientos propuestos:
+
+* A partir de un modelo que ya funciona, entrenar con nuevos audios de las personas que tienen disfonías.
+* Crear dos modelos adversarios, comparando el audio grabado con el generado.
+* Crea tantos modelos como patologías trabajemos.
+
+Propuestas de mejora o para una segunda fase del proyecto:
+
+* Detectar el contexto.
+* Introducir la *gamificación* en el etiquetado de datos, para motivar a los usuarios.
+* Si no tenemos suficientes datos, estudiar la posibilidad de generar datos sintéticos.
+
+Consenso:
+
+* La aplicación final debería ser una aplicación móvil
+
 ## Elementos evaluables
 
 * (15%) Planning - MS Planner 365
@@ -149,7 +173,7 @@ El resultado se utilizará para desarrollar la siguiente fase del proyecto PIA.
     * Estilo (10%)
     * Definición de todas las fases de la solución (análisis, diseño, implementación, pruebas, despliegue) (40%)
     * Competencias personales, profesionales y sociales (15%)
-        * Rubrica: revisar competencias del BOE, objetivos ODS
+        * Rúbrica: revisar competencias del BOE del curso de IABD, objetivos ODS
 * (10%) Participación
     * Equitativo, diferentes roles
 * (10%) Reflexión
