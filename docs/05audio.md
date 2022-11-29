@@ -3,6 +3,8 @@
 Reproducir un audio con el texto.
 Grabación de audio desde el navegador.
 Almacenamiento del audio en S3.
+Limpiar el audio (aplicación de filtros), para almacenar en S3 el audio original (raw), comprimido (mp3) y filtrado (sin ruido).
+    Librería librosa -> trim del audio ¿limpieza?
 
 ## Elementos entregables
 
