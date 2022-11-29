@@ -29,7 +29,7 @@ Para la realización de los bocetos, vamos a realizar una dinámica para el dise
 Para la realización de *wireframes* podemos utilizar <https://wireframe.cc/>, <https://balsamiq.com> o <https://www.gliffy.com>.
 
 !!! tip "El diseño no importa"
-    Es muy importante que en los pasos de bocetos y *wireframes* no nos centremos en el diseño gráfico, si no en la usabilidad. Es decir, nada de colores ni tipografía. 
+    Es muy importante que en los pasos de bocetos y *wireframes* no nos centremos en el diseño gráfico, si no en la usabilidad. Es decir, nada de colores ni tipografía.
 
 Una vez tenemos los esquemas de página, podemos crear la navegación en HTML como un prototipo para enseñarselo a los usuarios finales y que lo puedan probar.
 

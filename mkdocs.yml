@@ -6,8 +6,10 @@ nav:
   - "Inicio": "index.md"
   - "UF1 - PIAFP Lara":
       - "index.md"
-      - "Reto 1 - Presentacion": "01presentacion.md"
+      - "Reto 1 - Presentación": "01presentacion.md"
       - "Reto 2 - Prototipado": "02requisitos.md"
+      - "Reto 2 - Visita IES Victoria Kent": "03visitaVK.md"
+      - "Reto 2 - Almacenamiento datos": "04almacenamiento.md"
 
 theme:
   language: es
