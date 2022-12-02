@@ -356,6 +356,13 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#web" class="md-nav__link">
+    Web
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#elementos-entregables" class="md-nav__link">
     Elementos entregables
   </a>
@@ -418,6 +425,13 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#web" class="md-nav__link">
+    Web
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#elementos-entregables" class="md-nav__link">
     Elementos entregables
   </a>
@@ -455,10 +469,10 @@
 
 <h1 id="almacenamiento-de-audio">Almacenamiento de audio<a class="headerlink" href="#almacenamiento-de-audio" title="Permanent link">&para;</a></h1>
 <p>Una vez hemos revisado la aplicación de captura de datos y destacado sus funcionalidades, en esta sesión nos vamos a centrar en todo el ciclo de vida del audio, desde la grabación hasta su almacenamiento.</p>
-<p>Un proyecto paralelo que podemos revisar antes de plantearnos cómo capturar el audio es el proyecto <a href="https://commonvoice.mozilla.org/">Common Voice</a> de Mozilla, el cual quiere enseñar a las máquinas cómo hablan las personas. ¿</p>
+<p>Un proyecto paralelo que podemos revisar antes de plantearnos cómo capturar el audio es el proyecto <a href="https://commonvoice.mozilla.org/">Common Voice</a> de Mozilla, el cual quiere enseñar a las máquinas cómo hablan las personas.</p>
 <p>Para ello, se pide que la aplicación de captura permita:</p>
 <ul>
-<li>Reproducir un audio mediante TTS a partir del texto / sylabus que ha preparado el perfil técnico.</li>
+<li>Reproducir un audio mediante TTS a partir del texto / <em>sylabus</em> que ha preparado el perfil técnico.</li>
 <li>Grabación de audio desde el navegador, desde el perfil cliente, con la posibilidad de reescuchar el audio así como descartarlo antes de enviarlo al servidor.</li>
 <li>Almacenamiento del audio en S3,</li>
 <li>Limpieza del audio mediante la aplicación de filtros (opcional).</li>
@@ -468,17 +482,29 @@
 <p class="admonition-title">Librosa</p>
 <p><a href="https://librosa.org/doc/latest/index.html">Librosa</a> es una de las librerías más empleadas para trabajar con audio desde Python. Algunas operaciones que podemos realizar es hacer un <em>trim</em> del audio, así como emplear diferentes filtros.</p>
 </div>
+<h2 id="web">Web<a class="headerlink" href="#web" title="Permanent link">&para;</a></h2>
+<p>Ya tenemos visible publicada la web del proyecto en <a href="https://piafplara.es/">https://piafplara.es/</a>. En el espacio de inteligencia artificial y big data vamos a publicar diversas entradas conforme vayamos desarrollando hitos en el proyecto.</p>
+<figure style="align: center;">
+    <img src="images/web-piafplara-0212.png">
+    <figcaption>Web inicial del PIA FP Lara</figcaption>
+</figure>
+
+<p>Actualmente tenemos pendiente completar la entrada "El enfoque desde la IA" visible en <a href="https://piafplara.es/?p=147">https://piafplara.es/?p=147</a>.</p>
+<p>Para ello, se pide redactar de forma colaborativa un documento con el texto de la entrada. Su objetivo es contar el enfoque y lo que podemos aportar desde el curso de IABD al proyecto Lara, destacando la problemática de la dificultad comunicativa desde el punto de vista tecnológico.</p>
 <h2 id="elementos-entregables">Elementos entregables<a class="headerlink" href="#elementos-entregables" title="Permanent link">&para;</a></h2>
 <ul>
+<li>Documento con el texto de la entrada de la web.</li>
 <li>Proyecto publicado en GitHub.</li>
 </ul>
 <h2 id="plazos-de-entrega">Plazos de entrega<a class="headerlink" href="#plazos-de-entrega" title="Permanent link">&para;</a></h2>
 <ul>
+<li>Domingo 11 Dic - 23:59: Entrada web <a href="https://piafplara.es">https://piafplara.es</a></li>
 <li>Miércoles 14 Dic - 15:00: Proyecto publicado en <em>GitHub</em></li>
 <li>Miércoles 14 Dic (aula): Demostración de la aplicación desde el perfil de <code>Técnico</code> y de <code>Cliente</code>.</li>
 </ul>
 <h2 id="elementos-evaluables">Elementos evaluables<a class="headerlink" href="#elementos-evaluables" title="Permanent link">&para;</a></h2>
 <ul>
+<li>10% Docue</li>
 <li>80% Aplicación de captura de datos con grabación y almacenamiento de los audios, teniendo en cuenta la documentación, legibilidad y calidad del código.</li>
 <li>20% Demostración de la funcionalidad.</li>
 </ul>
