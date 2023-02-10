@@ -571,33 +571,52 @@
 <p>Tras nuestra visita al IES Navarro Santafé y conocer cómo se realiza la captura de datos desde los sensores, pasando por los PLC y luego su envío mediante NodeRED, necesitamos definir qué datos vamos a almacenar, la estructura de almacenamiento y su periodicidad.</p>
 <h2 id="sensorica">Sensórica<a class="headerlink" href="#sensorica" title="Permanent link">&para;</a></h2>
 <p>Así pues, nos vamos a plantear la siguiente sensórica:</p>
-<ul>
-<li>Ambiente exterior<ul>
-<li>Velocidad viento. </li>
-<li>Dirección viento. </li>
-<li>Luminosidad. </li>
-<li>Temperatura. </li>
-<li>Humedad relativa. </li>
-<li>Lluvia. </li>
-<li>Presión atmosférica.</li>
-</ul>
-</li>
-<li>Ambiente interior <ul>
-<li>Temperatura. </li>
-<li>Humedad relativa. </li>
-<li>CO2.</li>
-<li>Luminosidad. </li>
-</ul>
-</li>
-<li>Cultivo <ul>
-<li>Humedad sustrato.</li>
-<li>Conductividad.</li>
-<li>PH.</li>
-<li>Temperatura agua.</li>
-<li>Nivel de agua (Requiere monitorización precisa, seguramente frecuencia de 1 segundo).</li>
-</ul>
-</li>
-</ul>
+<table>
+<thead>
+<tr>
+<th>Ambiente exterior</th>
+<th>Ambiente interior</th>
+<th>Cultivo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Humedad relativa</td>
+<td>Humedad relativa</td>
+<td>Humedad sustrato</td>
+</tr>
+<tr>
+<td>Lluvia</td>
+<td>CO2</td>
+<td>Conductividad</td>
+</tr>
+<tr>
+<td>Luminosidad</td>
+<td>Luminosidad</td>
+<td>PH</td>
+</tr>
+<tr>
+<td>Temperatura</td>
+<td>Temperatura</td>
+<td>Temperatura agua</td>
+</tr>
+<tr>
+<td>Presión atmosférica</td>
+<td></td>
+<td>Nivel de agua (Requiere monitorización precisa, seguramente frecuencia de 1 segundo)</td>
+</tr>
+<tr>
+<td>Velocidad viento</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Dirección viento</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <h2 id="modelando">Modelando<a class="headerlink" href="#modelando" title="Permanent link">&para;</a></h2>
 <p>Para almacenar los datos nos vamos a centrar en <em>MongoDB</em>, y en concreto las <strong>series temporales</strong>, con ayuda de la <a href="https://www.mongodb.com/docs/manual/core/timeseries-collections/">documentación oficial de MongoDB sobre Time Series</a>.</p>
 <p>Para ello, se pide investigar cómo podemos crear colecciones de series temporales y cuál es el modelo de datos idóneo. Para ello, nos podemos plantear las siguientes preguntas:</p>
