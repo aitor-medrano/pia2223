@@ -595,7 +595,7 @@
 <h1 id="dataset">Dataset<a class="headerlink" href="#dataset" title="Permanent link">&para;</a></h1>
 <p>En esta sesión nos vamos a centrar en generar el dataset necesario para entrenar el modelo de IA del PIA Lara.</p>
 <p>Nuestro objetivo es generar un dataset que contenga todas las características que hemos recogido con la aplicación de captura.</p>
-<p>Para ello, utilizaremos låos audios que hemos recopilado mediante la aplicación de captura y tenemos almacenados en S3 están codificados con el formato Opus dentro de un contenedor Ogg.</p>
+<p>Para ello, utilizaremos los audios que hemos recopilado mediante la aplicación de captura y tenemos almacenados en S3 están codificados con el formato <a href="https://es.wikipedia.org/wiki/Opus_(c%C3%B3dec)">Opus</a> dentro de un contenedor <a href="https://es.wikipedia.org/wiki/Ogg">Ogg</a>.</p>
 <p>Recordad que tenemos la estructura de datos en <em>MongoDB</em> con la colección <code>audios</code> con la siguiente estructura:</p>
 <div class="highlight"><pre><span></span><code><span class="linenos" data-linenos=" 1 "></span><span class="p">{</span>
 <span class="linenos" data-linenos=" 2 "></span><span class="w">  </span><span class="nt">&quot;_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
@@ -606,9 +606,9 @@
 <span class="linenos" data-linenos=" 7 "></span><span class="w">    </span><span class="nt">&quot;id&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
 <span class="linenos" data-linenos=" 8 "></span><span class="w">      </span><span class="nt">&quot;$oid&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;63ea809051c7dd6fe6e4527f&quot;</span>
 <span class="linenos" data-linenos=" 9 "></span><span class="w">    </span><span class="p">},</span>
-<span class="linenos" data-linenos="10 "></span><span class="w">    </span><span class="nt">&quot;mail&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;cliente@cliente.com&quot;</span><span class="p">,</span>
+<span class="linenos" data-linenos="10 "></span><span class="w">    </span><span class="nt">&quot;mail&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;cliente@lara.com&quot;</span><span class="p">,</span>
 <span class="linenos" data-linenos="11 "></span><span class="w">    </span><span class="nt">&quot;nombre&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;Rocío López&quot;</span><span class="p">,</span>
-<span class="linenos" data-linenos="12 "></span><span class="w">    </span><span class="nt">&quot;parent&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;tecnico@tecnico.com&quot;</span>
+<span class="linenos" data-linenos="12 "></span><span class="w">    </span><span class="nt">&quot;parent&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;tecnico@lara.com&quot;</span>
 <span class="linenos" data-linenos="13 "></span><span class="w">  </span><span class="p">},</span>
 <span class="linenos" data-linenos="14 "></span><span class="w">  </span><span class="nt">&quot;fecha&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
 <span class="linenos" data-linenos="15 "></span><span class="w">    </span><span class="nt">&quot;$date&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2023-03-24T20:49:44.782Z&quot;</span>
@@ -627,7 +627,7 @@
 <h3 id="dataset-ampliado">Dataset ampliado<a class="headerlink" href="#dataset-ampliado" title="Permanent link">&para;</a></h3>
 <p>Cómo todavía no sabemos con qué audios es conveniente entrenar el modelo, vamos a generar previamente un dataset ampliado con todos los datos disponibles, almacenando otros datos que podamos considerar de interés, como el técnico, el tag, el mail del cliente, así como su sexo u otros datos que podamos llegar a necesitar.</p>
 <p>Sobre este dataset ampliado podremos ejecutar diferentes procesos que nos generar el dataset que emplearemos para cada uno de los modelos.</p>
-<p>Es decir, si queremos probar con todos los audios grabados por mujeres, en vez de volver a conectarnos a MongoDB y S3 para descargar y unir los datos, sobre el dataset ampliado generaremos la versión reducida.</p>
+<p>Es decir, si queremos probar con todos los audios grabados por mujeres, en vez de volver a conectarnos a <em>MongoDB</em> y <em>S3</em> para descargar y unir los datos, sobre el dataset ampliado generaremos la versión reducida.</p>
 <h3 id="representacion-del-audio">Representación del audio<a class="headerlink" href="#representacion-del-audio" title="Permanent link">&para;</a></h3>
 <p>Para el <em>dataset</em> necesitamos crear una representación numérica del audio. Puedes utilizar librerías como <a href="https://github.com/librosa/librosa">librosa</a> o <a href="https://pysoundfile.readthedocs.io/en/latest/">soundfile</a>.</p>
 <h2 id="elementos-evaluables">Elementos evaluables<a class="headerlink" href="#elementos-evaluables" title="Permanent link">&para;</a></h2>
