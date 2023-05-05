@@ -2,57 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://aitor-medrano.github.io/pia2223/index.html</loc>
-         <lastmod>2023-03-24</lastmod>
+         <lastmod>2023-05-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://aitor-medrano.github.io/pia2223/01presentacion.html</loc>
-         <lastmod>2023-03-24</lastmod>
+         <lastmod>2023-05-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://aitor-medrano.github.io/pia2223/02requisitos.html</loc>
-         <lastmod>2023-03-24</lastmod>
+         <lastmod>2023-05-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://aitor-medrano.github.io/pia2223/03visitaVK.html</loc>
-         <lastmod>2023-03-24</lastmod>
+         <lastmod>2023-05-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://aitor-medrano.github.io/pia2223/04almacenamiento.html</loc>
-         <lastmod>2023-03-24</lastmod>
+         <lastmod>2023-05-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://aitor-medrano.github.io/pia2223/05audio.html</loc>
-         <lastmod>2023-03-24</lastmod>
+         <lastmod>2023-05-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://aitor-medrano.github.io/pia2223/06autoponic.html</loc>
-         <lastmod>2023-03-24</lastmod>
+         <lastmod>2023-05-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://aitor-medrano.github.io/pia2223/07navarrosantafe.html</loc>
-         <lastmod>2023-03-24</lastmod>
+         <lastmod>2023-05-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://aitor-medrano.github.io/pia2223/08timeseries.html</loc>
-         <lastmod>2023-03-24</lastmod>
+         <lastmod>2023-05-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://aitor-medrano.github.io/pia2223/09powerbi.html</loc>
-         <lastmod>2023-03-24</lastmod>
+         <lastmod>2023-05-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://aitor-medrano.github.io/pia2223/10actuadores.html</loc>
-         <lastmod>2023-03-24</lastmod>
+         <lastmod>2023-05-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://aitor-medrano.github.io/pia2223/11dataset-MacBook%20Air%20de%20Aitor.html</loc>
+         <lastmod>2023-05-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://aitor-medrano.github.io/pia2223/11dataset.html</loc>
+         <lastmod>2023-05-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
